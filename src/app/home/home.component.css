@@ -1,0 +1,29 @@
+.home{
+    background-color: #1ABC9C;
+}
+
+.home-content-job {
+    font-size: 13px;
+}
+
+
+.left{
+    background-color: white;
+    width: 60px;
+    height: 2px;
+    position: absolute;
+    top: 50%;
+    left: 41%;
+   
+}
+
+
+.right{
+    background-color: white;
+    width: 60px;
+    height: 2px;
+    position: absolute;
+    top: 50%;
+    right: 41%;
+   
+}
